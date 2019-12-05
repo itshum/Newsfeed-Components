@@ -141,7 +141,7 @@ articleDate.textContent = date;
 firstP.textContent = firstParagraph;
 secondP.textContent = secondParagraph;
 thirdP.textContent = thirdParagraph;
-expandButton.textContent ='Click Me';
+expandButton.textContent ='Expand';
 
 // Button
 expandButton.addEventListener('click', ()=> {
